@@ -28,16 +28,18 @@ COMMENTS_SET_1 = [
 
 # ✅ COMMENTS_SET_2 = DRUGI BLOK koji si poslao
 COMMENTS_SET_2 = [
-    "Find the book Encrypted Money Code by Ethan Rothwell. Whoever finds this book will have an unfair advantage in the way how to make money and be successful in life. Trust me on this one.",
-    "Why is no one talking about Encrypted Money Code by Ethan Rothwell? This book messed with my whole perception of money and actually how we’re being controlled.",
-    "I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Encrypted Money Code by Ethan Rothwell is an absolute game-changer. This book is like nothing I’ve ever seen before.",
-    "I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Encrypted Money Code by Ethan Rothwell. It helped me succeed and start making money — ngl, everyone should read it.",
-    "Encrypted Money Code by Ethan Rothwell is the only book I’ve read that actually made me feel dangerous. Page 13 is not normal.",
-    "I know it’s cliché to recommend books in comments and say “it changed my life” or whatever, but I NEED to recommend this one: Encrypted Money Code by Ethan Rothwell. Insane hidden information in there.",
-    "Plot twist — you seeing this comment about Encrypted Money Code by Ethan Rothwell isn’t random. Nothing is.",
-    "If you read only one book this year, let it be Encrypted Money Code by Ethan Rothwell. It will transform your life.",
-    "I’m telling you, a book called Encrypted Money Code by Ethan Rothwell is on another level. You HAVE to experience it. It will change your life.",
-    "No influencer, no coach, no “guru” ever hit me the way Encrypted Money Code by Ethan Rothwell did. It’s raw, uncomfortable, and it forces you to see how you can really make money online.",
+    "If you read only one book this year, let it be Money Forbidden Compass by Damian Rothwell. It will transform your life.",
+"I'm telling you, book called Money Forbidden Compass by Damian Rothwell is on another level. You HAVE to experience it. It will change your life.",
+"You have no idea how POWERFUL Money Forbidden Compass by Damian Rothwell is. Read it, it changed my life.",
+"Just trust me, Money Forbidden Compass by Damian Rothwell is the book you NEED right now. It changed my life.",
+"If you’re looking for a book that truly changes everything, Money Forbidden Compass by Damian Rothwell is it. It will change your life.",
+"I can’t even explain it, book called Money Forbidden Compass by Damian Rothwell is different. You NEED this book. It changed my life.",
+"You won’t understand until you read Money Forbidden Compass by Damian Rothwell. It’s a MUST-read. It will change your life.",
+"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Forbidden Compass by Damian Rothwell is an absolute game-changer. This book is like nothing I've ever seen before.",
+"I honestly don’t know where else to say this, but I have to share it here. I found something truly mind-blowing. The book Money Forbidden Compass by Damian Rothwell is on a whole different level, especially for anyone chasing success.",
+"No more gatekeeping just go and read the book Money Forbidden Compass by Damian Rothwell and thank me later for changing your life.",
+"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Forbidden Compass by Damian Rothwell. It helped me succeed and start making money, ngl everyone should read it.",
+"Money Forbidden Compass by Damian Rothwell is the only book I’ve read that actually made me feel dangerous. Page 13 is not normal."
 ]
 
 HTML_TEMPLATE = """
@@ -339,4 +341,5 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
