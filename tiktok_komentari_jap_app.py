@@ -22,11 +22,11 @@ COMMENTS_SET_1 = [
 "I can’t even explain it, book called Encrypted Money Code by Ethan Rotwhell is different. You NEED this book. It changed my life.",
 "You won’t understand until you read Encrypted Money Code by Ethan Rotwhell. It’s a MUST-read. It will change your life.",
 "I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Encrypted Money Code by Ethan Rotwhell is an absolute game-changer. This book is like nothing I've ever seen before.",
-"I honestly don’t know where else to say this, but I have to share it here. I found something truly mind-blowing. The book Encrypted Money Code by Ethan Rotwhell is on a whole different level, especially for anyone chasing success."
+"I honestly don’t know where else to say this, but I have to share it here. I found something truly mind-blowing. The book Encrypted Money Code by Ethan Rotwhell is on a whole different level, especially for anyone chasing success.",
 "No more gatekeeping just go and read the book Encrypted Money Code by Ethan Rotwhell and thank me later for changing your life.",
 "I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Encrypted Money Code by Ethan Rotwhell. It helped me succeed and start making money, ngl everyone should read it.",
 "Encrypted Money Code by Ethan Rotwhell is the only book I’ve read that actually made me feel dangerous. Page 13 is not normal.",
-
+]
 # ✅ COMMENTS_SET_2 = DRUGI BLOK koji si poslao
 COMMENTS_SET_2 = [
     "If you read only one book this year, let it be Money Forbidden Compass by Damian Rothwell. It will transform your life.",
@@ -342,6 +342,7 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
 
 
